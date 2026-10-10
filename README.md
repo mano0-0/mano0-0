@@ -1,24 +1,3 @@
-# Manizha Hashimi
-
-Software engineer in Hamburg, Germany. I build and operate production backend systems on
-Google Cloud — APIs, data pipelines, and the guardrails that make LLM-generated SQL safe
-to execute.
-
-**Currently:** Software Engineer at FORTYFY Music, working across TypeScript/Node.js,
-Python, Angular, PostgreSQL and BigQuery.
-
----
-
-### Pinned
-
-**[llm-sql-guard](https://github.com/mano0-0/llm-sql-guard)** — Validate LLM-generated SQL
-against a policy before it reaches your database. Works on the parsed syntax tree rather
-than pattern-matching the query text, so it catches a `DELETE` nested inside a CTE (which
-PostgreSQL really does execute) while still allowing a query that merely contains the
-string `'DROP TABLE'` in a `WHERE` clause.
-
----
-
 ### Tools
 
 **Languages**

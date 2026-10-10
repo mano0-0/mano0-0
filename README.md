@@ -86,8 +86,3 @@ string `'DROP TABLE'` in a `WHERE` clause.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="40" height="40" alt="Playwright" title="Playwright" />
 </p>
 
----
-
-### Elsewhere
-
-[LinkedIn](https://www.linkedin.com/in/manizha-hashimi-a96480239/) · manizhahashimi08@gmail.com

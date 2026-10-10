@@ -50,4 +50,3 @@ string `'DROP TABLE'` in a `WHERE` clause.
 
 [LinkedIn](https://linkedin.com/in/manizha-hashimi) · manizhahashimi08@gmail.com
 
-German citizen, open to US and remote roles.

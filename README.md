@@ -9,23 +9,6 @@ Python, Angular, PostgreSQL and BigQuery.
 
 ---
 
-### What I work on
-
-**Natural-language analytics over a 422M-row warehouse.** An agent that lets non-technical
-colleagues ask business questions in plain English, classifies each question to a governed
-KPI, generates dialect-correct SQL for both BigQuery and MySQL, and joins the results
-across engines. Most of the engineering went into the safety layer — because letting a
-language model write SQL against production data is only as safe as what you do next.
-
-**A film rights-licensing platform** managing distribution eligibility across 42 streaming
-platforms: 85 REST endpoints over PostgreSQL, a partner-facing B2B API where each key is
-scoped to exactly one platform, and an OpenAPI 3.1 contract validated in both directions.
-
-**A multi-tenant B2B SaaS console** in Angular — white-label theming, internationalization,
-and the real-browser CI gates that keep theming from breaking silently.
-
----
-
 ### Pinned
 
 **[llm-sql-guard](https://github.com/mano0-0/llm-sql-guard)** — Validate LLM-generated SQL

@@ -48,5 +48,5 @@ string `'DROP TABLE'` in a `WHERE` clause.
 
 ### Elsewhere
 
-[LinkedIn](https://linkedin.com/in/manizha-hashimi) · manizhahashimi08@gmail.com
+[LinkedIn](https://www.linkedin.com/in/manizha-hashimi-a96480239/) · manizhahashimi08@gmail.com
 
